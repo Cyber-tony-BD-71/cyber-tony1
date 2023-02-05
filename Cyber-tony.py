@@ -396,11 +396,11 @@ logo = ("""\033[1;32m
 ───────────────────   \033
 __________________×_____________
   
-  Owner   :  Cyber-tony
+  Owner   :  TONY SHANKHARI
  
   Github   :  Cyber-tony-BD71
 
-  Facebook : Tony shankharu
+  Facebook : Tony shankhari
   
   Contact : +8801817478397
 __________________×______________________\033[1;37m""")
